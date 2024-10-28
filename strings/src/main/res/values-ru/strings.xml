@@ -47,30 +47,30 @@
     <string name="settings">Настройки</string>
     <string name="theme">Тема</string>
     <string name="dynamic_theme_notice">На Android 12+ цвета темы вашего приложения основаны на фоновом изображении вашего домашнего экрана</string>
-	<string name="theme_system">Системная</string>
-	<string name="theme_light">Светлая</string>
-	<string name="theme_dark">Темная</string>
-	<string name="tts_language">Язык синтеза речи</string>
-	<string name="about">О приложении</string>
-	<string name="version_name">Версия %s</string>
-	<string name="example">Пример</string>
-	<string name="definition">Определение</string>
-	<string name="type">Тип</string>
-	<string name="this_text_extracted_from_free_dictionary" translatable="false">Этот текст извлечен из API Free Dictionary</string>
-	<string name="general">Общее</string>
-	<string name="vibrate_on_scroll">Вибрация при прокрутке</string>
-	<string name="cancel">Отмена</string>
-	<string name="delete">Удалить</string>
-	<string name="increase_volume_notice">Увеличьте громкость</string>
-	<string name="antonym">Антоним</string>
-	<string name="synonym">Синоним</string>
-	<string name="start_blank_search">Пустой поиск при запуске</string>
-	<string name="theme_oled" tools:ignore="MissingTranslation">OLED/Темнее</string>
-	<string name="yes">Да</string>
-	<string name="no">Нет</string>
-	<string name="back">Назад</string>
-	<string name="remove_all_prompt">Вы хотите удалить все?</string>
-	<string name="cancelled">Отменено</string>
-	<string name="close">Закрыть</string>
-	<string name="more_in_app">Еще в приложении...</string>
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+    <string name="tts_language">Язык синтеза речи</string>
+    <string name="about">О приложении</string>
+    <string name="version_name">Версия %s</string>
+    <string name="example">Пример</string>
+    <string name="definition">Определение</string>
+    <string name="type">Тип</string>
+    <string name="this_text_extracted_from_free_dictionary" translatable="false">Этот текст извлечен из API Free Dictionary</string>
+    <string name="general">Общее</string>
+    <string name="vibrate_on_scroll">Вибрация при прокрутке</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="increase_volume_notice">Увеличьте громкость</string>
+    <string name="antonym">Антоним</string>
+    <string name="synonym">Синоним</string>
+    <string name="start_blank_search">Пустой поиск при запуске</string>
+    <string name="theme_oled" tools:ignore="MissingTranslation">OLED/Темнее</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="back">Назад</string>
+    <string name="remove_all_prompt">Вы хотите удалить все?</string>
+    <string name="cancelled">Отменено</string>
+    <string name="close">Закрыть</string>
+    <string name="more_in_app">Еще в приложении...</string>
 </resources>
