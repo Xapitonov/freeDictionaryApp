@@ -1,0 +1,76 @@
+<!--
+  ~     freeDictionaryApp/freeDictionaryApp.app.main
+  ~     strings.xml Copyrighted by Yamin Siahmargooei at 2024/5/9
+  ~     strings.xml Last modified at 2024/3/23
+  ~     This file is part of freeDictionaryApp/freeDictionaryApp.app.main.
+  ~     Copyright (C) 2024  Yamin Siahmargooei
+  ~
+  ~     freeDictionaryApp/freeDictionaryApp.app.main is free software: you can redistribute it and/or modify
+  ~     it under the terms of the GNU General Public License as published by
+  ~     the Free Software Foundation, either version 3 of the License, or
+  ~     (at your option) any later version.
+  ~
+  ~     freeDictionaryApp/freeDictionaryApp.app.main is distributed in the hope that it will be useful,
+  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~     GNU General Public License for more details.
+  ~
+  ~     You should have received a copy of the GNU General Public License
+  ~     along with freeDictionaryApp.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">freeDictionary</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Введите слово для поиска</string>
+    <string name="favourites">Избранные слова</string>
+    <string name="search_history">История поиска</string>
+    <string name="random_word">Случайное слово</string>
+    <string name="general_net_error">Нет подключения к серверу. Данные могут быть загружены из кеша.</string>
+    <string name="api_throttled">Сервер занят, попробуйте еще раз!</string>
+    <string name="definition_not_found">Определение слова не найдено.</string>
+    <string name="api_authorization_error">Ошибка аутентификации</string>
+    <string name="text_copied">Текст скопирован.</string>
+    <string name="license_header">Это бесплатное приложение под лицензией GNU, подробнее:</string>
+    <string name="gplv3_image_description">Логотип на лицензии GPLv3</string>
+    <string name="about_app">Словарь английского языка, основанный на:</string>
+    <string name="github_source" translatable="false">https://github.com/yamin8000/freeDictionaryApp</string>
+    <string name="license_link" translatable="false">https://raw.githubusercontent.com/yamin8000/freeDictionaryApp/master/LICENSE</string>
+    <string name="free_dictionary_link" translatable="false">https://dictionaryapi.dev/</string>
+    <string name="added_to_favourites">Добавлено в избранное</string>
+    <string name="clear">Очистить</string>
+    <string name="untracked_error">Неожиданная ошибка!</string>
+    <string name="no_search_term_entered">Ничего не введено.</string>
+    <string name="share">Поделиться</string>
+    <string name="this_text_generated_using_owl">Этот текст сгенерирован с использованием freeDictionaryApp</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="settings">Настройки</string>
+    <string name="theme">Тема</string>
+    <string name="dynamic_theme_notice">На Android 12+ цвета темы вашего приложения основаны на фоновом изображении вашего домашнего экрана</string>
+	<string name="theme_system">Системная</string>
+	<string name="theme_light">Светлая</string>
+	<string name="theme_dark">Темная</string>
+	<string name="tts_language">Язык синтеза речи</string>
+	<string name="about">О приложении</string>
+	<string name="version_name">Версия %s</string>
+	<string name="example">Пример</string>
+	<string name="definition">Определение</string>
+	<string name="type">Тип</string>
+	<string name="this_text_extracted_from_free_dictionary" translatable="false">Этот текст извлечен из API Free Dictionary</string>
+	<string name="general">Общее</string>
+	<string name="vibrate_on_scroll">Вибрация при прокрутке</string>
+	<string name="cancel">Отмена</string>
+	<string name="delete">Удалить</string>
+	<string name="increase_volume_notice">Увеличьте громкость</string>
+	<string name="antonym">Антоним</string>
+	<string name="synonym">Синоним</string>
+	<string name="start_blank_search">Пустой поиск при запуске</string>
+	<string name="theme_oled" tools:ignore="MissingTranslation">OLED/Темнее</string>
+	<string name="yes">Да</string>
+	<string name="no">Нет</string>
+	<string name="back">Назад</string>
+	<string name="remove_all_prompt">Вы хотите удалить все?</string>
+	<string name="cancelled">Отменено</string>
+	<string name="close">Закрыть</string>
+	<string name="more_in_app">Еще в приложении...</string>
+</resources>
